@@ -7,3 +7,6 @@
 [submodule "Fallout_/lib/openzeppelin-contracts"]
 	path = Fallout_/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "Coin_Flip/lib/forge-std"]
+	path = Coin_Flip/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
