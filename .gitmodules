@@ -10,3 +10,6 @@
 [submodule "Coin_Flip/lib/forge-std"]
 	path = Coin_Flip/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Telephone_/lib/forge-std"]
+	path = Telephone_/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
